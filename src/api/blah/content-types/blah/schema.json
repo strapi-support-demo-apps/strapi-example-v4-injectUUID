@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blahs",
+  "info": {
+    "singularName": "blah",
+    "pluralName": "blahs",
+    "displayName": "blah"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "string": {
+      "type": "string"
+    }
+  }
+}
